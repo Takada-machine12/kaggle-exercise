@@ -1,2 +1,2 @@
 # kaggle-exercise
-KaggleのLearn用リポジトリ
+KaggleのExercise用リポジトリ
